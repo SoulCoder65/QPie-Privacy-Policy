@@ -1,8 +1,8 @@
 # QPie-Privacy-Policy
-Privacy Policy For Qpie 
 
-Privacy Policy
-Privacy Statement
+# Privacy Policy
+# Privacy Statement
+
 Last updated on Oct 2020.
 We care about your privacy and are committed to protecting your personal data. This privacy
 statement will inform you how we handle your personal data, your privacy rights and how the
